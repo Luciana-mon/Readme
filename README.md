@@ -11,7 +11,8 @@ fazer a verificação dos dados para o inventario da empresa.
 - JavaScript
 
 ## Descrição das tarefas
-___
-1   qtdEstoque    Criar functions para calcular itens do estoque    Data Inicio   Data Término    Tempo Estimado
+
+ID | TAREFA     |             DESCRIÇÃO                           | DATA INICIO | DATA TERMINO | TEMPO ESTIMADO |
+1   qtdEstoque    Criar functions para calcular itens do estoque  | 04/05/2021  | 06/05/2021   | 2hrs           |
 
 
