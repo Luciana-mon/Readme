@@ -10,9 +10,8 @@ fazer a verificação dos dados para o inventario da empresa.
 ## Tecnologias utilizadas
 - JavaScript
 
-## Descrição das tarefas
+## Product Backlog
+- Criar script para fazer a soma dos itens no estoque 
 
-ID | TAREFA     |             DESCRIÇÃO                           | DATA INICIO | DATA TERMINO | TEMPO ESTIMADO |
-1   qtdEstoque    Criar functions para calcular itens do estoque  | 04/05/2021  | 06/05/2021   | 2hrs           |
 
 
