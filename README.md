@@ -11,7 +11,13 @@ fazer a verificação dos dados para o inventario da empresa.
 - JavaScript
 
 ## Product Backlog
-- Criar script para fazer a soma dos itens no estoque 
+Sprint 1 
 
+ID  | Tarefa                                                                    | Estimativa  | Inicio     | Termino    |
+----|---------------------------------------------------------------------------|-------------|------------|------------|
+01  | Criar function que some todos os produtos                                 |  1          | 10/05/2021 | 11/05/2021 |
+02  | Criar function que some todos os itens emDestaque "Sim"                   |  1          | 10/05/2021 | 11/05/2021 |
+03  | Criar function que some todos os itens disponiveis "Sim"                  |  1          | 10/05/2021 | 11/05/2021 |
+04  | Criar function que execulte a multiplicação do iten pela qtda em estoque  |  1          | 10/05/2021 | 11/05/2021 |
 
 
