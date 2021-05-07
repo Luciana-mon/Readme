@@ -11,20 +11,60 @@ fazer a verificação dos dados para o inventario da empresa.
 
 Sprint 1 - Configuração do sistema para automatizar informações.
 
-ID  | Tarefa                                                                                            | Estimativa  | Inicio     | Termino    |
+ID  | Tarefa 01                                                                                         | Estimativa  | Inicio     | Termino    |
 :--:|---------------------------------------------------------------------------------------------------|:-----------:|:----------:|:----------:|
-01  | Configurar ambiente                                                                               |  1          | 10/05/2021 | 10/05/2021 |
-02  | Criar function que some todos os produtos                                                         |  1          | 10/05/2021 | 11/05/2021 |
-03  | Criar function que some todos os itens emDestaque "Sim"                                           |  1          | 10/05/2021 | 11/05/2021 |
-04  | Criar function que some todos os itens disponiveis "Sim"                                          |  1          | 10/05/2021 | 11/05/2021 |
-05  | Criar function que execulte a multiplicação do iten pela qtda em estoque                          |  2          | 10/05/2021 | 12/05/2021 |
-06  | Criar function que retorne a qtd de itens por nome do departamento                                |  2          | 12/05/2021 | 14/05/2021 |
-07  | Criar function que execulte a multiplicação dos itens * qtda por nome departamento                |  3          | 12/05/2021 | 14/05/2021 |
-08  | Criar function que execulte o valor total dos produtos dividido pelo total de itens               |  3          | 14/05/2021 | 15/05/2021 |
-09  | Criar function que retorne valor total do produto dividido pelo numero de itens filtrar por depto |  3          | 14/05/2021 | 15/05/2021 |
+01  | Configurar ambiente                                                                               |  1          | 10/05/2021 | 10/05/2021 |                 
+02  | Criar function que some todos os produtos                                                         |  1          | 10/05/2021 | 11/05/2021 |                 
+03  | Criar function que some todos os itens emDestaque "Sim"                                           |  1          | 10/05/2021 | 11/05/2021 |                  
+
+## Revisão das Tarefas 01 
+ID |Tempo Dedicado | Precisou de Ajustes | Status da Tarefa | 
+:--|---------------|---------------------|------------------|
+01 |               |                     |                  |
+02 |               |                     |                  |
+03 |               |                     |                  |
+
+ID  | Tarefa 02                                                                      | Estimativa  | Inicio     | Termino    | 
+:--:|--------------------------------------------------------------------------------|:-----------:|:----------:|:----------:|  
+04  | Criar function que some todos os itens disponiveis "Sim"                       |  1          | 10/05/2021 | 11/05/2021 |
+05  | Criar function que execulte a multiplicação do iten pela qtda em estoque       |  2          | 10/05/2021 | 12/05/2021 |
+06  | Criar function que retorne a qtd de itens por nome do departamento             |  2          | 12/05/2021 | 14/05/2021 |
+
+## Revisão das Tarefas 02 
+ID |Tempo Dedicado | Precisou de Ajustes | Status da Tarefa | 
+:--|---------------|---------------------|------------------|
+04 |               |                     |                  |
+05 |               |                     |                  |
+06 |               |                     |                  |
+
+
+ID  | Tarefa 03                                                                                            | Estimativa  | Inicio     | Termino    | 
+:--:|------------------------------------------------------------------------------------------------------|:-----------:|:----------:|:----------:|
+07  | Criar function que execulte a multiplicação dos itens * qtda por nome departamento                   |  3          | 12/05/2021 | 14/05/2021 |
+08  | Criar function que execulte o valor total dos produtos dividido pelo total de itens                  |  3          | 14/05/2021 | 15/05/2021 |
+09  | Criar function que retorne valor total do produto dividido pelo numero de itens filtrar por depto    |  3          | 14/05/2021 | 15/05/2021 |
+
+## Revisão das Tarefas 03 
+ID |Tempo Dedicado | Precisou de Ajustes | Status da Tarefa | 
+:--|---------------|---------------------|------------------|
+07 |               |                     |                  |
+08 |               |                     |                  |
+09 |               |                     |                  |
+      
+
+ID  | Tarefa 04                                                                                         | Estimativa  | Inicio     | Termino    |
+:--:|---------------------------------------------------------------------------------------------------|:-----------:|:----------:|:----------:| 
 10  | Criar function que some o total de itens por departamento                                         |  1          | 13/05/2021 | 13/05/2021 |
 11  | Criar function que traga o produto de maior valor por nome de departamento                        |  2          | 13/05/2021 | 14/05/2021 |
 12  | Criar function que traga o produto de menor valor por nome de departamento                        |  2          | 14/05/2021 | 14/05/2021 |
+
+## Revisão das Tarefas 04
+ID |Tempo Dedicado | Precisou de Ajustes | Status da Tarefa | 
+:--|---------------|---------------------|------------------|
+10 |               |                     |                  |
+11 |               |                     |                  |
+12 |               |                     |                  |
+
 
 Sprint 2 - Configurações do Banco de Dados para gerar relatorio.
 
